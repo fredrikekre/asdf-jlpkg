@@ -14,7 +14,7 @@
 2. Install the `asdf-jlpkg` plugin:
 
    ```shell
-   asdf plugin add https://github.com/fredrikekre/asdf-jlpkg.git
+   asdf plugin add jlpkg https://github.com/fredrikekre/asdf-jlpkg.git
    ```
 
 3. Install `jlpkg`:
